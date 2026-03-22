@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fortunestatistics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Tracy Fortune — Data Analyst Portfolio
+
+1. Healthcare Operations Dashboard
+2. SQL Revenue Analytics
+3. Customer Churn Prediction Model
 
 <!---
 fortunestatistics/fortunestatistics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
