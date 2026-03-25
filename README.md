@@ -57,7 +57,7 @@ An in-depth analysis of Airbnb market dynamics, pricing trends, and listing perf
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/tracyfortune)
-- **Email:** your.email@example.com
+- **Email:** modeltec2000@aol.com
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
 ## 💡 What Drives Me
