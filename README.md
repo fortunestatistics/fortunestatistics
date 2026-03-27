@@ -1,13 +1,12 @@
-# Featured Projects
+# README
 
-## Healthcare Operation Analysis
-An analysis of healthcare operations to improve efficiency.
+## Bio
+This repository contains a collection of data analysis projects and their findings.
 
-## Customer Behaviour and Revenue
-Study focused on understanding customer behavior and its impact on revenue.
-
-## Customer-Churn-Prediction
-Predictive analytics to identify customers likely to churn.
-
-## Caripay
-A payment solution designed to enhance consumer experience.
+## Featured Projects
+- Cyclistic Bike Share Analysis
+- Airbnb Market Analysis
+- Healthcare Operation Analysis
+- Customer Behaviour and Revenue
+- Customer-Churn-Prediction
+- Caripay
